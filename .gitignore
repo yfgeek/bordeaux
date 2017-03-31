@@ -1,3 +1,11 @@
 .idea/workspace.xml
 .idea/misc.xml
 target/
+.idea/encodings.xml
+.classpath
+.project
+.settings/
+/bordeaux.iml
+/.idea/uiDesigner.xml
+/.idea/
+bin/
